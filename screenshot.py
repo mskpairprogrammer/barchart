@@ -10,7 +10,6 @@ WORKFLOW:
 3. Click center of screen to ensure page focus
 4. Scroll down to show chart area
 5. Capture screenshot (retry if blank)
-6. Save to screenshots folder with timestamp
 
 All configuration is read from .env file.
 """
